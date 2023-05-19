@@ -6,6 +6,7 @@ public class hello1 {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World...");
 		System.out.println("This is Jenkins Integration with Git");
+		System.out.println("One more automated deployment");
 
 	}
 
