@@ -7,6 +7,7 @@ public class hello1 {
 		System.out.println("Hello World...");
 		System.out.println("This is Jenkins Integration with Git");
 		System.out.println("One more automated deployment");
+		System.out.println("Second automated deployment");
 
 	}
 
